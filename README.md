@@ -1,16 +1,25 @@
 # JKG-Fashion
-This Project is like e-commerce website which is make by html5, css3, javascript, bootstrap and in backend we use php. this is pure dynamic . In project admin can add new clothes and manage it and also viewing  users detais and their detail and manage it .or user can also view detail about cloth and also and order it .Also check their order status.
+JKG Fashion is a fully dynamic e-commerce website built using modern web technologies.
+The platform allows admins to manage clothing inventory and user details, while users can browse, order clothes, and track their order status seamlessly.
 
-ALL Another Detail That usefull for the other people :
- 
- 
-Project Name :- JKG Fashion
+Features
 
-Plat form :- windows11
+Admin Panel
+Add, update, and remove clothing items
+Manage user details and order history
 
-Language :- Frontend :-HTML,CSS,JAVASCRIPT,BOOTSTRAP
-	    Backend :-PHP,MYSQL
+User Panel
+View detailed information about clothes
+Place and manage orders
+Check real-time order status
 
-Admin Login Detail :-
-User Name :- dishen
-Password :-6844
+
+Technologies Used
+Frontend: HTML5, CSS3, JavaScript, Bootstrap
+Backend: PHP, MySQL
+Platform: Windows 11
+
+
+Admin Login (Demo)
+Username: dishen
+Password: 6844
