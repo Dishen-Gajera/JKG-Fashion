@@ -1,0 +1,30 @@
+.container-fluid{
+    background: #3E8DA8;
+    color: white;
+    
+}
+.navbar{
+    background: #3E8DA8;
+
+}
+#co{
+    background: #3E8DA8;
+}
+
+
+#co li a{
+    color: #fff;
+}
+#co li a:hover{
+ 
+    color: black;
+}
+
+#btnn:hover{
+    background: #fff;
+    
+}
+#menu:hover{
+    color: black;
+}
+
